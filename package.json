@@ -1,6 +1,6 @@
 {
   "name": "@localnerve/bin-build",
-  "version": "6.0.2",
+  "version": "6.0.3",
   "description": "Easily build binaries",
   "license": "MIT",
   "type": "module",
@@ -42,8 +42,11 @@
     "tempfile": "^5.0.0"
   },
   "devDependencies": {
-    "@babel/preset-env": "^7.24.0",
-    "eslint": "^8.57.0",
+    "@babel/preset-env": "^7.24.4",
+    "@eslint/js": "^9.0.0",
+    "eslint": "^9.0.0",
+    "eslint-plugin-jest": "^28.2.0",
+    "globals": "^15.0.0",
     "jest": "^29.7.0",
     "nock": "^13.5.4"
   },

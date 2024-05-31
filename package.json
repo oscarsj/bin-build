@@ -1,5 +1,5 @@
 {
-  "name": "@localnerve/bin-build",
+  "name": "bin-build",
   "version": "7.1.0",
   "description": "Easily build binaries",
   "license": "MIT",
